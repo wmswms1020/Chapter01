@@ -23,6 +23,6 @@ public class juno {
 		
 		String address = "인천광역시 미추홀구";
 		System.out.println(address);
-				
+		
 	}	
 }
