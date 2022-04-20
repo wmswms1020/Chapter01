@@ -1,6 +1,6 @@
 package com.javaex.ex04;
 
-public class ex08 {
+public class Ex08 {
 
 	public static void main(String[] args) {
 	
